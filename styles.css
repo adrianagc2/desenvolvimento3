@@ -1,0 +1,14 @@
+h1 {
+    color: brown;
+}
+
+h2 {
+    color: darkblue;
+}
+ul {
+    background-color:beige ;
+    padding: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
